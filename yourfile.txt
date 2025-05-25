@@ -1,4 +1,66 @@
-hey i am a code i know to code in python and stuff i love to spend time coding 
-i never touch grass
-i only watch anime
-i have an appointment tommrow with my doctor he is a dentist 
+Swecha Summer of AI Internship – FAQ
+
+What is the Summer of AI Internship?
+
+The Summer of AI is an internship program organized by Swecha, in collaboration with IIIT Hyderabad, Meta, Ozonetel, and TASK. It focuses on empowering students to build impactful AI solutions, particularly for the Telugu language, while gaining hands-on experience in real-world projects.
+
+What are the internship dates?
+
+Start Date: 25th May 2025
+Duration: Up to 8 weeks
+Minimum Commitment: 4 weeks (interns can complete their work in 4 weeks if they choose; participation beyond that is optional)
+
+What do interns work on?
+	•	Building a Telugu Large Language Model (LLM)
+	•	Developing Text-to-Speech (TTS) systems (“Voice Avatars”)
+	•	Collecting and digitizing Telugu folk literature and oral history
+	•	Training in AI/ML tools, including Meta’s Llama model
+
+Is the internship online or in-person?
+the internship is hybrid it means that we can attend the internship in the office when we can and for the days we cant, we can do the work online on those days
+expect for students from BITS and ICFAI colleges they have to come to do offline office work 7 days a week 
+Mode: Hybrid
+Onsite Participation: Optional, but recommended for at least 2 days per week
+Remote-Only Option: Fully supported, especially for participants outside Telangana
+
+if you want to take breaks in SoAI we can take breaks, there is a formal procedure for that. you can take breaks but you need to achive 30 days of completeion and everything will be tracked
+
+Where can I attend in person?
+
+Main Venue (Hyderabad):
+Himalaya 205, IIIT-Hyderabad, Gachibowli
+
+Satellite Locations:
+Hanamkonda – Warangal
+Room No: 71–73, Chaitanya (Deemed to be) University
+Kishanpura, Naimnagar, Hanamkonda – 506001
+
+Khammam
+Ground Floor, IT-Hub Khammam
+Behind Two Town Police Station, Yellandu Crossroad
+Khammam – 507002
+
+Karimnagar
+1st Floor, IT Tower
+Bypass Road, Near Ujjwala Park
+Karimnagar – 505001
+
+Nizamabad
+Ground Floor, IT Towers
+Beside New Collector Office, Bypass Road, Dubba
+Nizamabad – 503002
+
+What if I live outside Telangana?
+
+You can participate entirely online. You will have access to all sessions, resources, tasks, and mentorship, and you can collaborate with the team remotely.
+
+Who can apply?
+	•	Open to students and early-career professionals
+	•	No prior AI or ML experience is required
+	•	A strong interest in technology for social good is encouraged
+
+What do I get?
+	•	Certificate of internship signed by IIIT Hyderabad, Meta, Ozonetel, TASK, and Swecha
+	•	Hands-on project experience
+	•	Networking opportunities
+	•	Portfolio-worthy contributions to language technology

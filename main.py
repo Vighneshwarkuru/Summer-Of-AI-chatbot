@@ -7,7 +7,7 @@ from functools import lru_cache
 import logging
 
 class RAGSystem:
-    def _init_(self, knowledge_file="yourfile.txt"):
+    def _init_(self, knowledge_file="info.txt"):
         logging.basicConfig(
             filename='rag_system.log',
             level=logging.INFO,
@@ -16,7 +16,7 @@ class RAGSystem:
         logging.info("Initializing RAG system...")
 
         try:
-            genai.configure(api_key="AIzaSyDjluzJLeucnG6qrOoWv2I3OfiE5RAGq4I")  # 🔐 Replace with your actual Gemini API key
+            genai.configure(api_key="Your_API_Key")  # 🔐 Replace with your actual Gemini API key
             self.llm = genai.GenerativeModel("models/gemini-1.5-flash")
             self.embedder = SentenceTransformer("all-MiniLM-L6-v2")
             self.chunks = self._load_knowledge(knowledge_file)

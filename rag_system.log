@@ -1,0 +1,38 @@
+2025-05-25 17:41:44,246 - INFO - Initializing RAG system...
+2025-05-25 17:41:44,246 - INFO - Use pytorch device_name: cpu
+2025-05-25 17:41:44,246 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-25 17:42:04,547 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-25 17:42:17,943 - ERROR - Failed to load knowledge file: [Errno 2] No such file or directory: 'knowledge_base.txt'
+2025-05-25 17:42:17,943 - ERROR - Initialization failed: [Errno 2] No such file or directory: 'knowledge_base.txt'
+2025-05-25 17:51:46,336 - INFO - Initializing RAG system...
+2025-05-25 17:51:46,336 - INFO - Use pytorch device_name: cpu
+2025-05-25 17:51:46,336 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-25 17:52:00,911 - ERROR - Initialization failed: [Errno 2] No such file or directory: 'knowledge.txt'
+2025-05-25 17:53:45,792 - INFO - Initializing RAG system...
+2025-05-25 17:53:45,792 - INFO - Use pytorch device_name: cpu
+2025-05-25 17:53:45,792 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-25 17:54:00,619 - INFO - Loaded 1 knowledge chunks
+2025-05-25 17:54:01,058 - INFO - FAISS index created.
+2025-05-25 17:54:01,058 - INFO - RAG system initialized successfully.
+2025-05-25 17:55:40,021 - INFO - Initializing RAG system...
+2025-05-25 17:55:40,037 - INFO - Use pytorch device_name: cpu
+2025-05-25 17:55:40,037 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-25 17:55:51,291 - INFO - Loaded 1 knowledge chunks
+2025-05-25 17:55:51,448 - INFO - FAISS index created.
+2025-05-25 17:55:51,448 - INFO - RAG system initialized successfully.
+2025-05-25 17:56:06,261 - INFO - Processing query: tell me about him
+2025-05-25 17:56:51,278 - INFO - Processing query: more about it
+2025-05-25 17:59:10,040 - INFO - Initializing RAG system...
+2025-05-25 17:59:10,055 - INFO - Use pytorch device_name: cpu
+2025-05-25 17:59:10,055 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-25 17:59:25,608 - INFO - Loaded 18 knowledge chunks
+2025-05-25 17:59:26,755 - INFO - FAISS index created.
+2025-05-25 17:59:26,755 - INFO - RAG system initialized successfully.
+2025-05-25 17:59:56,165 - INFO - Processing query: remote locations
+2025-05-25 18:00:13,815 - INFO - Processing query: where can i go for offline 
+2025-05-25 18:01:03,580 - INFO - Processing query: What is the internship structure?
+2025-05-25 18:01:09,294 - INFO - Processing query: What is the duration?
+2025-05-25 18:01:10,048 - INFO - Processing query: Can I work remotely?
+2025-05-25 18:01:11,279 - INFO - Processing query: Is it paid?
+2025-05-25 18:01:12,706 - INFO - Processing query: How do I apply for leave?
+2025-05-25 18:04:49,034 - INFO - Processing query: who is a techlead

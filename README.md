@@ -7,12 +7,11 @@ A comprehensive **RAG (Retrieval-Augmented Generation)** chatbot built for the *
 
 ## 🌟 Features
 
-- 💬 **Intelligent Q&A**: Chatbot powered by Google Gemini + RAG to answer internship-related queries
+- 💬 **Intelligent Q&A**: Chatbot powered by Google Gemini with RAG to answer internship-related queries
 - 📝 **Leave Application**: Submit leave requests with optional document uploads
 - 🚨 **Emergency Contacts**: Quick access to key contacts during the internship
 - 🌍 **Multi-location Support**: Venue details across Telangana
 - ❓ **FAQ Section**: Instantly answers common questions
-- 🧑‍💻 **Hybrid Learning Support**: Built to support both online and offline modes
 
 ---
 
@@ -95,35 +94,6 @@ Summer-Of-AI-chatbot/
 
 ---
 
-## 🧑‍🎓 Internship Program Info
-
-- **Duration**: 8 weeks starting **May 25, 2025**
-- **Mode**: Hybrid (online + offline)
-- **Projects**: Telugu LLMs, TTS, folk literature digitization
-- **Partners**: IIIT-H, Meta, Ozonetel, TASK, Swecha
-- **Certificate**: Multi-organization signed
-
-### ⚙️ Policies
-
-- **Minimum Commitment**: 4 weeks (up to 8 weeks)
-- **Remote Option**: Available for all interns
-- **Breaks**: Allowed after 30-day completion
-- **Special Rules**: BITS/ICFAI interns need 7-day office attendance
-
----
-
-## 🏢 Supported Locations
-
-| City        | Venue                                                   |
-|-------------|----------------------------------------------------------|
-| Hyderabad   | IIIT-Hyderabad, Gachibowli (Main Venue)                 |
-| Warangal    | Chaitanya University, Hanamkonda                        |
-| Khammam     | IT Hub, behind Two Town Police Station                  |
-| Karimnagar  | IT Tower, Bypass Road                                   |
-| Nizamabad   | IT Towers, beside New Collector Office                  |
-
----
-
 ## 🛠️ Technical Details
 
 ### 🧠 RAG Workflow
@@ -188,16 +158,6 @@ This chatbot is a part of the Swecha Summer of AI program. Please follow program
 - Use the **FAQ** section in the chatbot
 - Reach out to your program coordinator
 - Refer to the `info.txt` knowledge base
-
----
-
-## 🔮 Roadmap
-
-- ✅ Telugu language support
-- 🎙️ Voice-based interface
-- 📱 Mobile version
-- 📊 Admin analytics dashboard
-- 🔗 Integration with internship portals
 
 ---
 
